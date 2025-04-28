@@ -6,7 +6,7 @@ layout: page
 
 <p>Hi, I am Alara.</p>
 
-<p>I am currently pursuing my bachelor's degree in Artificial Intelligence at Vrije University, expecting to graduate this year. My interests lie in reinforcement learning, robotics, computer vision, and machine learning. While studying for my bachelor's degree, I have worked on various projects related to these areas. And, I am still in the process of exploring and learning more. 
+<p>I am currently pursuing my bachelor's degree in Artificial Intelligence at Vrije University, expecting to graduate this year. My interests lie in reinforcement learning, robotics, computer vision, and machine learning. Throughout my bachelor's degree, I have worked on various projects related to these areas. And, I am still in the process of exploring and learning more. 
 </p>
 
 <h2>Skills</h2>
