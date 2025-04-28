@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-<h1>About Me</h1>
+
 
 <p>Hi, I am Alara.</p>
 
@@ -10,7 +10,7 @@ layout: page
 </p>
 
 <h2>Skills</h2>
-<h5>Programming languages:</h5>
+<h4>Programming languages:</h4>
 <ul class="skill-list">
 	<li>Python</li>
 	<li>C++</li>
@@ -19,7 +19,7 @@ layout: page
 	<li>R</li>
 </ul>
 
-<h5>Tools and libraries:</h5>
+<h4>Tools and libraries:</h4>
 <ul class="skill-list">
 	<li>Scikit-Learn, Numpy</li>
 	<li>PyTorch</li>
