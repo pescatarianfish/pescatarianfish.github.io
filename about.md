@@ -9,7 +9,7 @@ layout: page
 </p>
 
 <h2>Skills</h2>
-<h3>Programming languages:</h3>
+<h4>Programming languages:</h4>
 <ul class="skill-list">
 	<li>Python</li>
 	<li>C++</li>
@@ -18,7 +18,7 @@ layout: page
 	<li>R</li>
 </ul>
 
-<h3>Tools and libraries:</h3>
+<h4>Tools and libraries:</h4>
 <ul class="skill-list">
 	<li>Scikit-Learn, Numpy</li>
 	<li>PyTorch</li>
